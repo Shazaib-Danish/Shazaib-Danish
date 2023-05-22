@@ -32,14 +32,14 @@ Having experience of all types of applications in mobile development using flutt
 
 ### Here are my profiles:
 
-Fiverr : https://www.fiverr.com/shazaib_danish1
-Upwork : https://www.upwork.com/freelancers/~01a9d81862a00ee1a2
-Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
-StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
+* Fiverr : https://www.fiverr.com/shazaib_danish1
+* Upwork : https://www.upwork.com/freelancers/~01a9d81862a00ee1a2
+* Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
+* StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
 
 For contact: 
-phone: +923044945128 (whatsapp)
-email: shazaibdanish4@gmail.com
+* phone: +923044945128 (whatsapp)
+* email: shazaibdanish4@gmail.com
 
 
 
