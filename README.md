@@ -8,26 +8,26 @@
 
 Having experience of all types of applications in mobile development using flutter📱
 
-### Including these apps:
+   ### Including these apps:
 
-* E-commerece apps
-* Bookings apps 
-  * Hotel bookings
-  * Car bookings (Like Uber)
-  * Helper Bookings
-  * Cleaner Bookings
-* Quiz app
-* Live Score app
-* Social Audio app using Agora etc..
+   * E-commerece apps
+   * Bookings apps 
+     * Hotel bookings
+     * Car bookings (Like Uber)
+     * Helper Bookings
+     * Cleaner Bookings
+   * Quiz app
+   * Live Score app
+   * Social Audio app using Agora etc..
 
-Including these features of mobile applications: 
+  ### Including these features of mobile applications: 
 
-* Animated stunning UI
-* APIs Integrations
-* Notifications (FCM, OneSignal)
-* Payments Gateways Integrations
-* Google maps integraion with navigations
-* Image processing etc..
+  * Animated stunning UI
+  * APIs Integrations
+  * Notifications (FCM, OneSignal)
+  * Payments Gateways Integrations
+  * Google maps integraion with navigations
+  * Image processing etc..
 
 
 ### Here are my profiles:
