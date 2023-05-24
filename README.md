@@ -26,7 +26,7 @@ Having experience of all types of applications in mobile development using flutt
   * APIs Integrations
   * Notifications (FCM, OneSignal)
   * Payments Gateways Integrations
-  * Google maps integraion with navigations
+  * Google maps integration with navigations
   * Image processing etc..
 
 
