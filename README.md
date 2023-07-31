@@ -37,8 +37,6 @@ Having experience of all types of applications in mobile development using flutt
 * Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
 * StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
 
-For contact: 
-* phone: +923044945128 (whatsapp)
 * email: shazaibdanish4@gmail.com
 
 
