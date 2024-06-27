@@ -8,12 +8,12 @@
 
 ### Thank You for reaching out to my Profile.                                                                                      
 
-#### I'm Shazaib Danish, a skilled Flutter app developer with three years of industry experience. I am passionate about creating elegant and functional mobile applications using the Flutter framework.💻
+#### I'm Shazaib Danish, a skilled Flutter app developer with three 3+ of industry experience. I am passionate about creating elegant and functional mobile applications using the Flutter framework.💻
 
 
 ##### Throughout my career, I have been actively involved in developing high-quality apps for various platforms, including Android and iOS, using Flutter's cross-platform capabilities. I have gained comprehensive knowledge of Flutter's UI toolkit, which allows me to design and build beautiful and responsive user interfaces.
 
-Having experience of all types of applications in mobile development using flutter📱
+Having experience of all types of applications in mobile development using Flutter📱
 
    ### Including these apps:
 
@@ -26,15 +26,6 @@ Having experience of all types of applications in mobile development using flutt
    * Quiz app
    * Live Score app
    * Social Audio app using Agora etc..
-
-  ### Including these features of mobile applications: 
-
-  * Animated stunning UI
-  * APIs Integrations
-  * Notifications (FCM, OneSignal)
-  * Payments Gateways Integrations
-  * Google maps integration with navigations
-  * Image processing etc..
 
 
 ### Here are my profiles:
