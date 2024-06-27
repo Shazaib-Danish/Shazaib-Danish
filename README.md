@@ -17,15 +17,8 @@ Having experience of all types of applications in mobile development using Flutt
 
    ### Including these apps:
 
-   * E-commerece apps
-   * Bookings apps 
-     * Hotel bookings
-     * Car bookings (Like Uber)
-     * Helper Bookings
-     * Cleaner Bookings
-   * Quiz app
-   * Live Score app
-   * Social Audio app using Agora etc..
+![Saloon Booking App](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/d3067bbe-e3d6-4d19-87be-d015a1301d3f)
+
 
 
 ### Here are my profiles:
