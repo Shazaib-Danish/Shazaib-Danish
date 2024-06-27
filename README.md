@@ -5,9 +5,6 @@
 #### I'm Shazaib Danish, a skilled Flutter app developer with three years of industry experience. I am passionate about creating elegant and functional mobile applications using the Flutter framework.💻
 
 
-![d1168aaf72b2eb7564760754944b07d6](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/528e330d-9ef6-4898-a6c3-c52c860a8d90)
-
-
 ##### Throughout my career, I have been actively involved in developing high-quality apps for various platforms, including Android and iOS, using Flutter's cross-platform capabilities. I have gained comprehensive knowledge of Flutter's UI toolkit, which allows me to design and build beautiful and responsive user interfaces.
 
 Having experience of all types of applications in mobile development using flutter📱
