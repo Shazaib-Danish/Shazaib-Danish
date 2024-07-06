@@ -33,14 +33,26 @@ Having experience of all types of applications in mobile development using Flutt
 
 
 
-###
-###
-###
-###
-
 ![achievements](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/6658f009-c5a4-4d6c-a6fe-d677c5e19714)
 
 
+##### Clients Reviews 
+
+<img width="866" alt="Screenshot 2024-07-06 at 1 11 15 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/69fa8d6e-a745-4590-b6ff-2f313a5f6f65">
+<img width="889" alt="Screenshot 2024-07-06 at 1 11 03 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/be63cb0f-bc3a-484a-83c7-d786c0f2c7b0">
+<img width="858" alt="Screenshot 2024-07-06 at 1 10 54 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/2d4d5892-b53a-49f6-bdb1-cbe33fc3f095">
+<img width="857" alt="Screenshot 2024-07-06 at 1 10 41 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e7f9e9db-e42f-4cd7-8c36-b2a85d21f016">
+<img width="860" alt="Screenshot 2024-07-06 at 1 10 34 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/73edd46b-007b-4936-9cc9-14b821f35979">
+<img width="891" alt="Screenshot 2024-07-06 at 1 10 21 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/bb63c4b5-b581-4632-9fce-2c41db1f61bc">
+<img width="872" alt="Screenshot 2024-07-06 at 1 10 06 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/deb0b223-51c4-437f-b046-c323c6449a17">
+<img width="862" alt="Screenshot 2024-07-06 at 1 09 55 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/4bad7e67-5ffa-42de-a945-7c16b5e016a0">
+<img width="895" alt="Screenshot 2024-07-06 at 1 09 45 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/ffac7ea4-cbbc-453e-8e40-ea14e09d1532">
+<img width="876" alt="Screenshot 2024-07-06 at 1 09 29 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e50f3f40-f55b-463f-afee-0f51c3f70abf">
+<img width="900" alt="Screenshot 2024-07-06 at 1 09 20 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/9aa41c37-7ff1-43d3-9239-a46deef3c9d4">
+<img width="887" alt="Screenshot 2024-07-06 at 1 09 09 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/665b656e-aae1-4749-a3ad-2d68d7fbbc14">
+<img width="875" alt="Screenshot 2024-07-06 at 1 08 18 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/d2009d07-0339-4ba4-a2f0-d6411eeda6bd">
+<img width="879" alt="Screenshot 2024-07-06 at 1 08 08 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e6a677a2-0940-4554-9722-973df74f2cca">
+<img width="905" alt="Screenshot 2024-07-06 at 1 07 56 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/69c4edbf-0ecc-4de7-aed4-c24c598999b7">
 
 
 ### Here are my profiles:
