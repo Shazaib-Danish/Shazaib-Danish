@@ -54,10 +54,15 @@ Having experience of all types of applications in mobile development using Flutt
 <img width="879" alt="Screenshot 2024-07-06 at 1 08 08 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e6a677a2-0940-4554-9722-973df74f2cca">
 <img width="905" alt="Screenshot 2024-07-06 at 1 07 56 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/69c4edbf-0ecc-4de7-aed4-c24c598999b7">
 <img width="810" alt="Screenshot 2024-07-06 at 1 24 29 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/080c9b38-09dc-4bff-9fe9-7a57dcc47ccb">
+________________________________________________________________________________________________________________________
 <img width="824" alt="Screenshot 2024-07-06 at 1 24 15 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e3338cbf-74ad-4132-9d36-a1458a93f24d">
+________________________________________________________________________________________________________________________
 <img width="832" alt="Screenshot 2024-07-06 at 1 23 54 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/56f63b7b-3ba4-486f-8943-e771a5b7d9e6">
+________________________________________________________________________________________________________________________
 <img width="819" alt="Screenshot 2024-07-06 at 1 23 33 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/37770049-c83c-42b7-97b1-b8cd94e2a111">
+________________________________________________________________________________________________________________________
 <img width="850" alt="Screenshot 2024-07-06 at 1 24 07 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/0e0ab859-abca-4cdc-986f-adab65080e4c">
+________________________________________________________________________________________________________________________
 
 
 
