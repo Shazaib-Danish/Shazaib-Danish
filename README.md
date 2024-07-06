@@ -38,7 +38,7 @@ Having experience of all types of applications in mobile development using Flutt
 
 # Clients Reviews 
 
-<img width="866" alt="Screenshot 2024-07-06 at 1 11 15 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/69fa8d6e-a745-4590-b6ff-2f313a5f6f65">
+
 <img width="889" alt="Screenshot 2024-07-06 at 1 11 03 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/be63cb0f-bc3a-484a-83c7-d786c0f2c7b0">
 <img width="858" alt="Screenshot 2024-07-06 at 1 10 54 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/2d4d5892-b53a-49f6-bdb1-cbe33fc3f095">
 <img width="857" alt="Screenshot 2024-07-06 at 1 10 41 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e7f9e9db-e42f-4cd7-8c36-b2a85d21f016">
