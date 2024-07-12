@@ -30,15 +30,11 @@ Having experience of all types of applications in mobile development using Flutt
 
 ![E-Commerece App](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/a4245e62-1c8c-43c4-a0e6-1ec686f58cbc)
 
-
-
-
-![achievements](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/6658f009-c5a4-4d6c-a6fe-d677c5e19714)
-
-
 ![3](https://github.com/user-attachments/assets/fbee14ae-93cd-4cee-bbea-5bc816d05253)
 ![2](https://github.com/user-attachments/assets/095e75db-2875-4cd2-8817-b8d1c12bd0e9)
 
+
+![achievements](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/6658f009-c5a4-4d6c-a6fe-d677c5e19714)
 
 
 # ---------- Clients Reviews ⭐⭐⭐⭐⭐ ----------
