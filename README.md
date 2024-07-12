@@ -1,4 +1,4 @@
-
+![2](https://github.com/user-attachments/assets/4383fddb-2452-4951-8e01-1f599965ddfa)
 ![Hello (1)](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/0f21cc48-8ac7-4b03-a258-fb79b5f3e636)
 
 
@@ -17,7 +17,7 @@ Having experience of all types of applications in mobile development using Flutt
 
 
 
-   ### Including these apps:
+   # My Projects
    
 
 ![Saloon Booking App](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/d3067bbe-e3d6-4d19-87be-d015a1301d3f)
@@ -34,6 +34,11 @@ Having experience of all types of applications in mobile development using Flutt
 
 
 ![achievements](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/6658f009-c5a4-4d6c-a6fe-d677c5e19714)
+
+
+![3](https://github.com/user-attachments/assets/fbee14ae-93cd-4cee-bbea-5bc816d05253)
+![2](https://github.com/user-attachments/assets/095e75db-2875-4cd2-8817-b8d1c12bd0e9)
+
 
 
 # ---------- Clients Reviews ⭐⭐⭐⭐⭐ ----------
