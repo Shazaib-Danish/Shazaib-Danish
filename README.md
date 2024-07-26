@@ -8,12 +8,20 @@
 
 ### Thank You for reaching out to my Profile.                                                                                      
 
-#### I'm Shazaib Danish, a skilled Flutter app developer with 3+ years of industry experience. I am passionate about creating elegant and functional mobile applications using the Flutter framework.💻
+#### I am Shazaib Danish, a skilled Flutter Full-stack developer with 3 years of experience in mobile app development using Flutter. Additionally, I have 1 year of experience with Java and SQL for desktop applications, and 6 months of experience with C++. I hold a degree in Computer Science, which has provided me with a strong foundation in software development principles and practices.💻
 
 
 ##### Throughout my career, I have been actively involved in developing high-quality apps for various platforms, including Android and iOS, using Flutter's cross-platform capabilities. I have gained comprehensive knowledge of Flutter's UI toolkit, which allows me to design and build beautiful and responsive user interfaces.
 
-Having experience of all types of applications in mobile development using Flutter📱
+Having experience of all categories of applications in mobile development using Flutter📱
+
+### Here are my profiles:
+
+
+* Upwork : https://www.upwork.com/freelancers/~01a9d81862a00ee1a2
+* Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
+* StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
+* email: shazaibdanish4@gmail.com
 
 
 
@@ -65,16 +73,6 @@ ________________________________________________________________________________
 <img width="850" alt="Screenshot 2024-07-06 at 1 24 07 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/0e0ab859-abca-4cdc-986f-adab65080e4c">
 ______________________________________________________________________________________________________
 
-
-
-### Here are my profiles:
-
-
-* Upwork : https://www.upwork.com/freelancers/~01a9d81862a00ee1a2
-* Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
-* StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
-
-* email: shazaibdanish4@gmail.com
 
 
 
