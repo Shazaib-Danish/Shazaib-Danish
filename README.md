@@ -15,15 +15,15 @@
 
 Having experience of all categories of applications in mobile development using Flutter📱
 
-#Live Projects
-   ##Play Store
+# Live Projects
+   ## Play Store
    1. https://play.google.com/store/apps/details?id=com.Tasweeq.userapp&pcampaignid=web_share
    2. https://play.google.com/store/apps/details?id=com.Tasweeq.sellerapp&pcampaignid=web_share
    3. https://play.google.com/store/apps/details?id=com.komnata.speaklabint&pcampaignid=web_share
    4. https://play.google.com/store/apps/details?id=com.scb.pk.bmw
 
 
-##App Store
+## App Store
    1. https://apps.apple.com/us/app/tasweeq-oman/id1644209346
    2. https://apps.apple.com/do/app/muawin-oman/id6475013756
    3. https://apps.apple.com/in/app/estibafy/id1645711040
