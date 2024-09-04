@@ -17,10 +17,12 @@ Having experience of all categories of applications in mobile development using 
 
 # Live Projects
    ## Play Store
-   1. https://play.google.com/store/apps/details?id=com.Tasweeq.userapp&pcampaignid=web_share
-   2. https://play.google.com/store/apps/details?id=com.Tasweeq.sellerapp&pcampaignid=web_share
-   3. https://play.google.com/store/apps/details?id=com.komnata.speaklabint&pcampaignid=web_share
-   4. https://play.google.com/store/apps/details?id=com.scb.pk.bmw
+   1. <a href="https://play.google.com/store/apps/details?id=com.Tasweeq.userapp&pcampaignid=web_share" target="_blank"> E-Commerece App </a>
+   2. https://play.google.com/store/apps/details?id=com.Tasweeq.userapp&pcampaignid=web_share
+   3. https://play.google.com/store/apps/details?id=com.Tasweeq.sellerapp&pcampaignid=web_share
+   4. https://play.google.com/store/apps/details?id=com.komnata.speaklabint&pcampaignid=web_share
+   5. https://play.google.com/store/apps/details?id=com.scb.pk.bmw
+      
 
 
 ## App Store
