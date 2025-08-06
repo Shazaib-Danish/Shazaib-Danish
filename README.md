@@ -1,13 +1,8 @@
 
 
-
-
-![ab](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/64e50b4f-c8ce-420c-8714-af7c39f1819d)
-
-
 ### Thank You for reaching out to my Profile.                                                                                      
 
-#### I am Shazaib Danish, a skilled Flutter Full-stack developer with 3 years of experience in mobile app development using Flutter. Additionally, I have 1 year of experience with Java and SQL for desktop applications, and 6 months of experience with C++. I hold a degree in Computer Science, which has provided me with a strong foundation in software development principles and practices.💻
+#### I am Shazaib Danish, a skilled Flutter Full-stack developer with 5 years of experience in mobile app development using Flutter. Additionally, I have 1 year of experience with Java and SQL for desktop applications, and 6 months of experience with C++. I hold a degree in Computer Science, which has provided me with a strong foundation in software development principles and practices.💻
 
 
 ##### Throughout my career, I have been actively involved in developing high-quality apps for various platforms, including Android and iOS, using Flutter's cross-platform capabilities. I have gained comprehensive knowledge of Flutter's UI toolkit, which allows me to design and build beautiful and responsive user interfaces.
