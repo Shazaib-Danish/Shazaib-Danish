@@ -9,55 +9,9 @@
 
 Having experience of all categories of applications in mobile development using Flutter📱
 
-# Live Projects
-   ## Play Store
-   1. <a href="https://play.google.com/store/apps/details?id=com.Tasweeq.userapp&pcampaignid=web_share" target="_blank"> E-Commerece Customer App  </a>
-   2. <a href="https://play.google.com/store/apps/details?id=com.Tasweeq.sellerapp&pcampaignid=web_share" target="_blank"> E-Commerece Seller App </a>
-   3. <a href="https://play.google.com/store/apps/details?id=com.komnata.speaklabint&pcampaignid=web_share" target="_blank"> Ticker Booking App </a>
-   4. <a href="https://play.google.com/store/apps/details?id=com.scb.pk.bmw" target="_blank"> Banking App </a>
-      
 
 
-## App Store
-   1. https://apps.apple.com/us/app/tasweeq-oman/id1644209346
-   2. https://apps.apple.com/do/app/muawin-oman/id6475013756
-   3. https://apps.apple.com/in/app/estibafy/id1645711040
-
-
-### Here are my profiles:
-
-
-* Upwork : https://www.upwork.com/freelancers/~01a9d81862a00ee1a2
-* Linkedin : https://www.linkedin.com/in/shazaib-danish-30bb9a180/
-* StackOverFlow : https://stackoverflow.com/users/14796306/shazaib-danish
-* email: shazaibdanish4@gmail.com
-
-
-
-   # My Projects
-   
-
-![Saloon Booking App](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/d3067bbe-e3d6-4d19-87be-d015a1301d3f)
-
-
-
-![Delivery App (1)](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/57115d2f-87da-4c42-a0fa-2ba9f9ffd9c5)
-
-
-
-![E-Commerece App](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/a4245e62-1c8c-43c4-a0e6-1ec686f58cbc)
-
-![3](https://github.com/user-attachments/assets/fbee14ae-93cd-4cee-bbea-5bc816d05253)
-![2](https://github.com/user-attachments/assets/095e75db-2875-4cd2-8817-b8d1c12bd0e9)
-
-
-![achievements](https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/6658f009-c5a4-4d6c-a6fe-d677c5e19714)
-
-
-# ---------- Clients Reviews ⭐⭐⭐⭐⭐ ----------
-
-
-<img width="889" alt="Screenshot 2024-07-06 at 1 11 03 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/be63cb0f-bc3a-484a-83c7-d786c0f2c7b0">
+<!-- <img width="889" alt="Screenshot 2024-07-06 at 1 11 03 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/be63cb0f-bc3a-484a-83c7-d786c0f2c7b0">
 <img width="858" alt="Screenshot 2024-07-06 at 1 10 54 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/2d4d5892-b53a-49f6-bdb1-cbe33fc3f095">
 <img width="857" alt="Screenshot 2024-07-06 at 1 10 41 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/e7f9e9db-e42f-4cd7-8c36-b2a85d21f016">
 <img width="860" alt="Screenshot 2024-07-06 at 1 10 34 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/73edd46b-007b-4936-9cc9-14b821f35979">
@@ -79,7 +33,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 <img width="819" alt="Screenshot 2024-07-06 at 1 23 33 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/37770049-c83c-42b7-97b1-b8cd94e2a111">
 ______________________________________________________________________________________________________
-<img width="850" alt="Screenshot 2024-07-06 at 1 24 07 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/0e0ab859-abca-4cdc-986f-adab65080e4c">
+<img width="850" alt="Screenshot 2024-07-06 at 1 24 07 PM" src="https://github.com/Shazaib-Danish/Shazaib-Danish/assets/75744833/0e0ab859-abca-4cdc-986f-adab65080e4c"> -->
 ______________________________________________________________________________________________________
 
 
